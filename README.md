@@ -13,7 +13,7 @@ I used several ensemble learning models to try and achieve this.
 I uploaded the data, used PCA to reduce it’s dimensions, and proceeded to use models in order to reach results. I used ensemble learning models here as well.
 
 
-* The third project is on the well known cats vs dogs dataset. We were given 25,000 photos of cats and dogs for analysis.
+* The third project is on the well known cats vs dogs dataset. We were given 25,000 photos of cats and dogs for analysis. I used some basic models as well as ensemble models.
 
 
 * The purpose of my last project, Hands, was to classify between three different situations in the way people communicate with each other, given many datasets describing human hand movement.
