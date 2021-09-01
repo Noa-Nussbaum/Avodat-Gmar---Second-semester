@@ -17,4 +17,4 @@ I uploaded the data, used PCA to reduce it’s dimensions, and proceeded to use 
 
 
 * The purpose of my last project, Hands, was to classify between three different situations in the way people communicate with each other, given many datasets describing human hand movement.
-I had to upload a great amount of data, manipulate it and clean it as instructed. I then split the data into training and testing sets, and used several models to make predictions. Amongst others, the models I used were: Random Forest, KNN and Pipeline.
+I had to upload a great amount of data, manipulate it and clean it as instructed. I then split the data into training and testing sets, and used several models to make predictions.
